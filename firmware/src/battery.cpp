@@ -1,1 +1,6 @@
-// To be implemented
+#include <Arduino.h>
+
+void initializeBattery()
+{
+    Serial.println("Battery monitoring initialized");
+}
