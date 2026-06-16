@@ -1,7 +1,9 @@
-Component,Quantity
-ESP32,1
-E-Ink Display,1
-microSD Module,1
-Audio DAC,1
-Battery,1
-Buttons,4
+Component,Quantity,Purpose
+ESP32,1,Main Controller
+E-Ink Display,1,User Interface
+microSD Module,1,Music Storage
+MAX98357A DAC,1,Audio Output
+Li-Ion Battery,1,Power Source
+Battery Charging Module,1,USB Charging
+Push Buttons,4,Navigation Controls
+Speaker or Headphone Jack,1,Audio Playback
