@@ -27,13 +27,30 @@ See repository folders for documentation, firmware and hardware design files.
 
 ## Roadmap
 
-- [ ] PCB Design
-- [ ] Prototype Build
-- [ ] Audio Playback
-- [ ] Battery Monitoring
-- [ ] Bluetooth Audio
-- [ ] Playlist Support
+### Version 1.0
 
+- [ ] Hardware Design
+- [ ] PCB Layout
+- [ ] Prototype Assembly
+- [ ] Audio Playback
+
+### Version 1.5
+
+- [ ] Folder Navigation
+- [ ] Playlist Support
+- [ ] Resume Playback
+
+### Version 2.0
+
+- [ ] Bluetooth Audio
+- [ ] Theme System
+- [ ] Battery Monitoring
+
+### Version 3.0
+
+- [ ] Mobile Companion App
+- [ ] OTA Firmware Updates
+      
 ## License
 
 MIT
