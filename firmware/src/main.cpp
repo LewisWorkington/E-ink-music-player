@@ -2,6 +2,7 @@
 
 // Function declarations
 void initializeDisplay();
+void initializeBattery();
 
 void initializeSystem()
 {
@@ -16,6 +17,7 @@ void setup()
 
     initializeSystem();
     initializeDisplay();
+    initializeBattery();
 }
 
 void loop()
